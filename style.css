@@ -27,7 +27,9 @@ h1 {
 .button {
     color: white;
     background-color: red;
-    border-radius: 10px;
+    border-radius: 25px;
+    font-size: 16px;
+    padding: 7px;
 }
 
 .footer {
