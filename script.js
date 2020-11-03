@@ -58,7 +58,8 @@ function writePassword() {
         if(mixedcase) {
             password = generatePassword(length, mixedtype)
         }
-
+        
+    // in case user does not select mixedcase he will get all uppercase password
         if(!mixedcase) {
             password = generatePassword(length, uppercase)
         }
