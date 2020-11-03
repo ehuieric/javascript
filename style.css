@@ -1,0 +1,37 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 0px 50px 0px;
+}
+
+.content {
+    border: 1px solid grey;
+    border-right: none;
+    border-left: none;
+    padding: 10px 0px;
+    margin: 24px 65px 25px 0;
+    width: 90%;
+}
+
+#password {
+    border: 3px dotted grey;
+    width: -webkit-fill-available;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+}
+
+.button {
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+    width: 90%;
+}
+
